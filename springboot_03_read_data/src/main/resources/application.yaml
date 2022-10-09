@@ -1,0 +1,13 @@
+lesson: SpringBoot
+
+server:
+  port: 80
+
+enterprise:
+  name: ch7x
+  age: 21
+  tel: 8008208820
+  subject:
+    - Java
+    - 前端
+    - 大数据
